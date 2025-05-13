@@ -1,1 +1,1 @@
-# imdb_data.scv
+# imdb_data.csv
